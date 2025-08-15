@@ -16,20 +16,4 @@ Welcome to the **SDAIA** repository! This repository contains your projects and 
 - **Transformers** 📚  
 - **Hugging Face** 🤗  
 
-## 🚀 How to Run
 
-1. Make sure to install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-2. Run the model:
-
-```bash
-python run_model.py
-```
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
